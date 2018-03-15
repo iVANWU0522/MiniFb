@@ -1,0 +1,9 @@
+PORT: 80
+
+production:
+  GMAIL_DOMAIN: gmail.com
+  GMAIL_USERNAME: xyz@gmail.com
+  GMAIL_PASSWORD: zys
+  SENDGRID_API_KEY: asd
+  SECRET_KEY_BASE: def
+  PORT: 80
